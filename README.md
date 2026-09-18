@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aarti Wamane
+# Hi, I'm Aarti Wamane
 
 **M.Tech Computer Engineering | Full-Stack Developer**
 
