@@ -19,7 +19,7 @@
 * [Python System Surveillance Automation](https://github.com/aartiwamane/Python-System-Surveillance-Automation)
 * [Python SMTP Mail Sender](https://github.com/aartiwamane/python-smtp-mail-sender)
 * [Python Custom Filter Map Reduce](https://github.com/aartiwamane/Python-Custom-Filter-Map-Reduce)
-* [Duplicate File Detector]([PASTE-REPOSITORY-LINK](https://github.com/aartiwamane/Duplicate-File-Removal-Automation))
+* [Duplicate File Detector](https://github.com/aartiwamane/Duplicate-File-Removal-Automation)
 
 ## 🌐 Angular & Frontend Development
 ### 🚀 Angular Applications
