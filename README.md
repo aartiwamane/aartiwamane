@@ -4,7 +4,7 @@
 
 ## 🤖 Machine Learning 
 
-### 📊 ML Case Studies & Implementations
+### ML Case Studies & Implementations
 
 * [Manual KNN Classifier](https://github.com/aartiwamane/Manual-KNN-Classifier)
 * [Linear Regression From Scratch](https://github.com/aartiwamane/Linear-Regression-From-Scratch-Python)
@@ -13,7 +13,7 @@
 * [Fraudulent Transaction Detection](https://github.com/aartiwamane/Fraudulent-Transaction-Detection-ML)
 
 
-## 🐍 Python & Automation & Utilities
+## Python & Automation & Utilities
 
 * [Python Empty File Cleaner](https://github.com/aartiwamane/Python-Empty-File-Cleaner)
 * [Python System Surveillance Automation](https://github.com/aartiwamane/Python-System-Surveillance-Automation)
